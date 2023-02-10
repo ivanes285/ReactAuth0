@@ -11,6 +11,9 @@ http://localhost:5173
 ```
 npm install @auth0/auth0-react
 ```
+- El Modulo nos provee de diferentes metodos que se usaron en varios componentes como Login, Logout, Profile  
+
+
 ### Preview
 
 
