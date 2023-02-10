@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "start": "vite preview --port 3000",
+    "start": "npx http-server ./dist",
     "preview": "vite preview "
   },
   "dependencies": {
