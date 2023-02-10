@@ -11,3 +11,18 @@ http://localhost:5173
 ```
 npm install @auth0/auth0-react
 ```
+### Preview
+
+
+<p align="center">
+    <img src="./assets/01.png" />
+<p/>
+
+
+<p align="center">
+    <img src="./assets/02.png" />
+<p/>
+
+<p align="center">
+    <img src="./assets/03.png" />
+<p/>
