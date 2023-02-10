@@ -6,3 +6,8 @@
 http://localhost:5173
 ```
 - Lo copiamos en el campo de Allowed Callback URLs , Allowed Logout URLs y en Allowed Web Origins 
+## Instalación de Modulos
+- La documentacion con respecto a React [QuickStart](https://manage.auth0.com/dashboard/us/dev-kf3g4bpfjye6vdbv/applications/dvYW40wQSpBYRF8xQKaV72u4NuZk4KQN/quickstart) nos dice que debemos instalar los siguientes modulos:
+```
+npm install @auth0/auth0-react
+```
