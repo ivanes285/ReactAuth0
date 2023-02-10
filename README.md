@@ -15,11 +15,15 @@ npm install @auth0/auth0-react
 
 ##Deploy
 - La app frontend se desplego en railway , tome en cuenta la configuracion en el archiv package.json el comando start que permitio que se pueda desplegar
+### Environment Variables
+VITE_DOMAIN=dominio
+VITE_CLIENTID=clientid
 - Si quieres visualizar el despligues puedes hacerlo en [Link](https://reactauth0-production.up.railway.app/)
 - Toma en cuenta que en este caso produccion tuvimos que cambiar de nuevo en settings/aplicationsURIS y colocaremos el nuevo dominio de nuestra aplicacionç
  ```
  https://reactauth0-production.up.railway.app
  ```
+ 
 
 ### Preview
 
